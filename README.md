@@ -2,7 +2,7 @@
 Cancer Clustering Collaborative - Inferring NF2 Treatment Based on Similarity to characterized cancers
 
 ## SVAI Hackathon June 2017
-* VCF Filter: VCF_filtering.ipynb
+* VCF Filter: [VCF_filtering.ipynb](VCF_filtering.ipynb)
 * TCGA Data: Broad FireHose Data.ipynb	
 * Mutational Signature Extraction: tcga_processing.R
 * Cluster Analysis.ipynb	Cluster Analysis	2 hours ago
