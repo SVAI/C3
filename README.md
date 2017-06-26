@@ -1,5 +1,6 @@
 # C3 (aka c-cubed)
 Cancer Clustering Collaborative - Inferring NF2 Treatment Based on Similarity to characterized cancers
+Details of our analysis can before found in our [poster](HackPoster.pdf) and [final presentation](C3finalpresentation.pdf)
 
 ## SVAI Hackathon June 2017
 Codes for the main analysis steps in our project are listed here. 
@@ -9,4 +10,3 @@ Codes for the main analysis steps in our project are listed here.
 * Dimensional reduction and Cluster Analysis:	[Cluster Analysis.ipynb](Cluster%20Analysis.ipynb)
 * Gene Mutation Localization: [NF2 VCF Analysis.ipynb](NF2%20VCF%20Analysis.ipynb)
 
-Details of our analysis can before found in our [poster](HackPoster.pdf) and [final presentation](C3finalpresentation.pdf)
