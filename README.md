@@ -5,7 +5,7 @@
 ## SVAI Hackathon June 2017
 Codes for the main analysis steps in our project are listed here. 
 * VCF Filter: [VCF_filtering.ipynb](VCF_filtering.ipynb)
-* TCGA Data: [Broad FireHose Dat\.ipynb](Broad%20FireHose%20Data.ipynb)
+* TCGA Data Loading/Processing: [Broad FireHose Dat\.ipynb](Broad%20FireHose%20Data.ipynb)
 * Mutational Signature and mutated gene/GO term Extraction, preparing matrices for clustering: [tcga_processing.R](tcga_processing.R)
 * Dimensional reduction and Cluster Analysis:	[Cluster Analysis.ipynb](Cluster%20Analysis.ipynb)
 * Gene Mutation Localization: [NF2 VCF Analysis.ipynb](NF2%20VCF%20Analysis.ipynb)
